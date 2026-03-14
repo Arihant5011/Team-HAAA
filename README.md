@@ -125,5 +125,5 @@ The template is configured for deployment on Cloudflare:
 ```bash
 npm run build
 ```
-##Team-HAAA
+## Team-HAAA
 
